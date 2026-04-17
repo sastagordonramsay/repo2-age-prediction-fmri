@@ -42,3 +42,11 @@ Using atlas-based ROI signals extracted from fMRI scans, connectivity matrices w
 * Functional connectivity
 * Machine learning
 * Scientific workflows
+
+---
+
+## Example Output
+
+### ROI Functional Connectivity Matrix
+
+![Connectivity Heatmap](figures/connectivity_heatmap.png)
