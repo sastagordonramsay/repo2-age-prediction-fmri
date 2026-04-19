@@ -60,7 +60,8 @@ The pipeline successfully:
 * Downloaded and processed multi-subject resting-state fMRI data
 * Extracted ROI time series from atlas-defined cortical regions
 * Generated subject-level functional connectivity matrices
-* Built a predictive modelling framework for age estimation
-* Demonstrated an end-to-end reproducible neuroimaging workflow
+* Built a Ridge Regression framework for age prediction
+* Implemented 5-fold cross-validation for evaluation
+* Established a reproducible foundation for future predictive experiments
 
-Model performance metrics can be updated as additional experiments are completed.
+Quantitative performance metrics should be reported directly from the latest notebook outputs after rerunning the final model.
